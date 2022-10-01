@@ -1,3 +1,5 @@
+/*Given the head of a linked list, rotate the list to the right by k places.*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
